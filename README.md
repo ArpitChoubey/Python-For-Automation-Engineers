@@ -3,14 +3,14 @@
 > A comprehensive Python programming repository designed specifically for **QA Engineers, Automation Testers, SDETs, and Software Engineers** to master the programming concepts required for building robust automation frameworks.
 
 ---
-
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge&logo=selenium)
-![PyTest](https://img.shields.io/badge/PyTest-Framework-orange?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Actions-black?style=for-the-badge&logo=github)
-
+<img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTest-Framework-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-Testing-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-Engineering-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 
 </p>
 
