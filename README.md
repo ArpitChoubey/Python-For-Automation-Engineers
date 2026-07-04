@@ -4,6 +4,16 @@
 
 ---
 
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge&logo=selenium)
+![PyTest](https://img.shields.io/badge/PyTest-Framework-orange?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Actions-black?style=for-the-badge&logo=github)
+
+
+</p>
+
 ## 📌 About This Repository
 
 Automation is much more than learning Selenium or Playwright.
